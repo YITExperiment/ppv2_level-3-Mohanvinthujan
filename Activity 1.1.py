@@ -1,3 +1,3 @@
 print('Hello,World!')
-person=input('What is your name?') vinthujan
+person=input('What is your name?') 
 print('Hello',person)
