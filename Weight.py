@@ -1,2 +1,2 @@
-height=157
-print(height)
+weight=39
+print(weight)
